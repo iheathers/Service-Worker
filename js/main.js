@@ -6,3 +6,5 @@ if (navigator.serviceWorker) {
       .catch((error) => console.log('Serview Worker Registration Error'));
   });
 }
+
+console.log('Testing on Netlify');
